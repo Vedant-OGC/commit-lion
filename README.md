@@ -289,3 +289,5 @@ MIT License - See LICENSE file for details.
 3. **Rate Limits**: GitHub API has hourly rate limits - the tool respects these
 4. **Contribution Graph Updates**: Changes may take a few minutes to appear on your profile
 5. **Git History**: Backdated commits will appear in git history with the specified dates
+
+# Note: 2026-04-07 - maintenance update
